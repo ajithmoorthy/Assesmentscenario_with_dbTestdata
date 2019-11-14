@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="70230" started-at="2019-11-14T14:32:10Z" finished-at="2019-11-14T14:33:21Z">
+    <groups>
+    </groups>
+    <test name="Test validate CHROMEcom.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic" duration-ms="35266" started-at="2019-11-14T14:32:10Z" finished-at="2019-11-14T14:32:46Z">
+      <class name="com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic@76d627dc]" name="baseSetup" is-config="true" duration-ms="10931" started-at="2019-11-14T14:32:10Z" finished-at="2019-11-14T14:32:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="webURLLoader()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic@76d627dc]" name="webURLLoader" is-config="true" duration-ms="6490" started-at="2019-11-14T14:32:21Z" finished-at="2019-11-14T14:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webURLLoader -->
+        <test-method status="PASS" signature="verifyHeatClinic()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic@76d627dc]" name="verifyHeatClinic" duration-ms="14837" started-at="2019-11-14T14:32:28Z" finished-at="2019-11-14T14:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeatClinic -->
+        <test-method status="PASS" signature="endDriver()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic@76d627dc]" name="endDriver" is-config="true" duration-ms="3004" started-at="2019-11-14T14:32:43Z" finished-at="2019-11-14T14:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+      </class> <!-- com.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic -->
+    </test> <!-- Test validate CHROMEcom.atmecs.assesment_dbmanagement.testscripts.TestVerifyHeatClinic -->
+    <test name="Test validate CHROMEcom.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore" duration-ms="70230" started-at="2019-11-14T14:32:10Z" finished-at="2019-11-14T14:33:21Z">
+      <class name="com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore@778aa1c4]" name="baseSetup" is-config="true" duration-ms="10847" started-at="2019-11-14T14:32:10Z" finished-at="2019-11-14T14:32:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MY,CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="webURLLoader()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore@778aa1c4]" name="webURLLoader" is-config="true" duration-ms="8073" started-at="2019-11-14T14:32:21Z" finished-at="2019-11-14T14:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webURLLoader -->
+        <test-method status="PASS" signature="verifyNinjaStore()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore@778aa1c4]" name="verifyNinjaStore" duration-ms="50194" started-at="2019-11-14T14:32:29Z" finished-at="2019-11-14T14:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNinjaStore -->
+        <test-method status="PASS" signature="endDriver()[pri:0, instance:com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore@778aa1c4]" name="endDriver" is-config="true" duration-ms="1112" started-at="2019-11-14T14:33:19Z" finished-at="2019-11-14T14:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endDriver -->
+      </class> <!-- com.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore -->
+    </test> <!-- Test validate CHROMEcom.atmecs.assesment_dbmanagement.testscripts.TestVerifyNinjaStore -->
+  </suite> <!-- mysuite -->
+</testng-results>

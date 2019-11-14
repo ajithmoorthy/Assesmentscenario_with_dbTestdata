@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [HeatAndNinjaSuite]" parallel="tests">
+  <test thread-count="5" verbose="0" name="VerifyCartTest(failed)" parallel="tests">
+    <classes>
+      <class name="com.atmecs.assesment_dbmanagement.testbase.TestNGPrallel">
+        <methods>
+          <include name="xmlsuite"/>
+        </methods>
+      </class> <!-- com.atmecs.assesment_dbmanagement.testbase.TestNGPrallel -->
+    </classes>
+  </test> <!-- VerifyCartTest(failed) -->
+</suite> <!-- Failed suite [HeatAndNinjaSuite] -->

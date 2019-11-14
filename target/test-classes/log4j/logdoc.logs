@@ -1,0 +1,694 @@
+2019-11-14 12:39:02 INFO  LogReporter:27 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-14 12:39:02 INFO  LogReporter:21 - STEP 3: Validating the Home Page Title
+2019-11-14 12:39:03 INFO  LogReporter:21 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-14 12:39:03 INFO  LogReporter:21 - STEP 4: Changing the currency to Dollar
+2019-11-14 12:39:03 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 12:39:05 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 12:39:05 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 12:39:05 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 12:39:09 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 12:39:10 INFO  LogReporter:21 - Product name iphone is entered
+2019-11-14 12:39:10 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 12:39:13 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 12:39:13 INFO  LogReporter:21 - Product is selected
+2019-11-14 12:39:13 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 12:39:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 12:39:16 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 12:39:16 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 12:39:17 INFO  LogReporter:21 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-14 12:39:17 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 12:39:18 INFO  LogReporter:21 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-14 12:39:18 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 12:39:18 INFO  LogReporter:21 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-14 12:39:19 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 12:39:19 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 12:39:21 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 12:39:22 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 12:39:22 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 12:39:22 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 12:39:29 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 12:39:29 INFO  LogReporter:21 - Product name mac book air is entered
+2019-11-14 12:39:29 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 12:39:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 12:39:31 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 12:39:31 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 12:39:34 INFO  LogReporter:21 - Product is selected
+2019-11-14 12:39:34 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 12:39:34 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 12:39:34 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 12:39:35 INFO  LogReporter:21 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-14 12:39:35 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 12:39:35 INFO  LogReporter:21 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-14 12:39:35 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 12:39:36 INFO  LogReporter:21 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-14 12:39:36 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 12:39:38 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 12:39:38 INFO  LogReporter:21 - STEP 13: Click the Cart link
+2019-11-14 12:39:40 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 12:39:41 INFO  LogReporter:21 - Successfully navigate to the cart
+2019-11-14 12:39:41 INFO  LogReporter:21 - STEP 14: Validate the cart Product
+2019-11-14 12:39:42 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 12:39:43 INFO  LogReporter:21 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-14 12:39:43 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) and Expected :Hawt Like a Habanero Shirt (Men's) is validated successfully
+2019-11-14 12:39:43 INFO  LogReporter:21 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-14 12:39:43 INFO  LogReporter:21 - STEP 15: Validate the Grand Total Before
+2019-11-14 12:39:43 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 12:39:44 INFO  LogReporter:21 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-14 12:39:44 INFO  LogReporter:21 - STEP 16: Remove the Product From the Cart
+2019-11-14 12:39:44 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 12:39:44 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 12:39:45 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 12:39:46 INFO  LogReporter:21 - Product is Removed
+2019-11-14 12:39:46 INFO  LogReporter:21 - STEP 17: Validate the Grand Total After
+2019-11-14 12:39:46 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 12:39:46 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 12:39:48 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 12:39:50 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 12:39:51 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 12:40:16 INFO  LogReporter:21 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully
+2019-11-14 13:46:28 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 13:46:28 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 13:46:28 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 13:46:31 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 13:46:33 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 13:46:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance
+2019-11-14 13:46:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 13:46:38 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 13:46:38 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 13:46:43 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 13:46:44 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 13:46:44 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 13:46:44 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 13:46:51 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 13:46:52 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 13:46:53 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) and Expected :Hawt Like a Habanero Shirt (Men's) is validated successfully
+2019-11-14 13:46:53 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 13:46:54 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 13:46:54 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 13:46:55 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 13:46:55 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 13:46:55 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 13:46:57 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 13:46:59 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 13:46:59 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 13:50:13 INFO  LogReporter:27 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-14 13:50:13 INFO  LogReporter:21 - STEP 3: Validating the Home Page Title
+2019-11-14 13:50:13 INFO  LogReporter:21 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-14 13:50:13 INFO  LogReporter:21 - STEP 4: Changing the currency to Dollar
+2019-11-14 13:50:13 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 13:50:18 INFO  LogReporter:21 - Product name iphone is entered
+2019-11-14 13:50:18 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 13:50:23 INFO  LogReporter:21 - Product is selected
+2019-11-14 13:50:23 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 13:50:24 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 13:50:24 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 13:50:24 INFO  LogReporter:21 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-14 13:50:24 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 13:50:25 INFO  LogReporter:21 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-14 13:50:25 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 13:50:25 INFO  LogReporter:21 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-14 13:50:25 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 13:50:27 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 13:50:27 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 13:50:33 INFO  LogReporter:21 - Product name mac book air is entered
+2019-11-14 13:50:33 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 13:50:36 INFO  LogReporter:21 - Product is selected
+2019-11-14 13:50:36 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 13:50:36 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 13:50:36 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 13:50:37 INFO  LogReporter:21 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-14 13:50:37 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 13:50:37 INFO  LogReporter:21 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-14 13:50:37 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 13:50:38 INFO  LogReporter:21 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-14 13:50:38 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 13:50:39 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 13:50:40 INFO  LogReporter:21 - STEP 13: Click the Cart link
+2019-11-14 13:50:42 INFO  LogReporter:21 - Successfully navigate to the cart
+2019-11-14 13:50:42 INFO  LogReporter:21 - STEP 14: Validate the cart Product
+2019-11-14 13:50:42 INFO  LogReporter:21 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-14 13:50:43 INFO  LogReporter:21 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-14 13:50:43 INFO  LogReporter:21 - STEP 15: Validate the Grand Total Before
+2019-11-14 13:50:43 INFO  LogReporter:21 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-14 13:50:43 INFO  LogReporter:21 - STEP 16: Remove the Product From the Cart
+2019-11-14 13:50:44 INFO  LogReporter:21 - Product is Removed
+2019-11-14 13:50:44 INFO  LogReporter:21 - STEP 17: Validate the Grand Total After
+2019-11-14 13:51:15 INFO  LogReporter:21 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully
+2019-11-14 14:08:09 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 14:08:09 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 14:08:09 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 14:08:12 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 14:08:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 14:08:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 14:08:18 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 14:08:19 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 14:28:57 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 14:28:57 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 14:28:57 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 14:31:04 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 14:31:04 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 14:31:04 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 14:32:26 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 14:32:26 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 14:32:26 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:07:13 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:07:14 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:07:14 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:08:47 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:08:47 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:08:47 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:09:29 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:09:29 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:09:30 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:12:32 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:12:32 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:12:32 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:12:35 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 15:12:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 15:12:39 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 15:12:42 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 15:12:43 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 15:13:34 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:13:34 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:13:34 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:13:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 15:13:40 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 15:13:42 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 15:13:44 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 15:13:46 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 15:43:15 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 15:43:15 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 15:43:15 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 15:43:23 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 15:43:28 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 15:43:31 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 15:43:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 15:43:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 15:43:37 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 15:43:42 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 15:43:42 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 15:43:43 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 15:43:43 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 15:43:51 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 15:43:52 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 15:43:53 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) and Expected :Hawt Like a Habanero Shirt (Men's) is validated successfully
+2019-11-14 15:43:53 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 15:43:54 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 15:43:54 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 15:43:55 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 15:43:55 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 15:43:55 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 15:43:57 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 15:43:59 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 15:43:59 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 16:11:17 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:11:17 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:11:17 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:11:21 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:11:23 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:11:25 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:11:28 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 16:11:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 16:11:30 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:11:36 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:40:01 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:40:01 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:40:01 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:40:04 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:40:07 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:40:09 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:40:11 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 16:40:13 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 16:40:13 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:40:19 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:41:27 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:41:27 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:41:27 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:41:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:41:32 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:41:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:41:35 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce
+2019-11-14 16:41:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 16:41:37 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:41:43 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:44:55 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:44:56 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:44:56 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:44:59 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:45:01 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:45:03 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:45:05 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 16:45:08 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 16:45:08 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:45:12 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:50:07 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:50:07 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:50:07 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:50:10 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:50:12 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:50:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance
+2019-11-14 16:50:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 16:50:18 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 16:50:18 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:50:23 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:50:24 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 16:50:25 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 16:50:25 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 16:50:32 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 16:50:34 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 16:50:35 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) and Expected :Hawt Like a Habanero Shirt (Men's) is validated successfully
+2019-11-14 16:50:35 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 16:50:35 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 16:50:36 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 16:50:36 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:50:37 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:50:37 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 16:50:39 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 16:50:41 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:50:42 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 16:52:07 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:52:07 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:52:07 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:52:10 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:52:12 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:52:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:52:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce
+2019-11-14 16:52:19 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 16:52:19 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:52:23 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:52:24 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens not match with the Expected value :Viewing Mens (1 - 3 of 3)
+2019-11-14 16:52:24 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 16:52:24 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 16:52:32 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 16:52:34 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 16:52:34 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) and Expected :Hawt Like a Habanero Shirt (Men's) is validated successfully
+2019-11-14 16:52:35 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 16:52:35 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 16:52:36 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 16:52:36 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:52:37 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:52:37 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 16:52:38 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 16:52:41 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:52:42 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 16:58:05 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 16:58:05 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 16:58:05 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 16:58:08 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 16:58:10 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 16:58:12 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 16:58:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 16:58:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 16:58:16 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 16:58:21 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 16:58:21 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 16:58:22 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 16:58:22 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 16:58:29 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 16:58:30 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 16:58:31 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) not match with the Expected value : Red
+2019-11-14 16:58:31 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 16:58:32 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 16:58:33 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 16:58:33 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:58:33 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:58:33 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 16:58:35 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 16:58:38 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 16:58:39 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 17:07:22 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:07:22 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:07:22 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:07:25 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:07:27 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:07:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:07:32 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:07:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:07:34 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:07:38 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:07:39 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:07:39 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:07:39 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:07:48 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:07:49 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:09:07 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:09:07 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:09:07 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:09:10 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:09:12 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:09:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:09:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:09:18 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:09:18 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:09:23 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:09:24 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:09:24 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:09:24 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:09:33 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:09:35 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:09:36 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) not match with the Expected value : Ajith
+2019-11-14 17:09:36 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 17:09:37 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 17:09:37 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 17:09:37 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:09:38 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:09:38 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 17:09:40 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 17:09:43 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:09:44 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 17:10:52 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:10:52 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:10:52 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:11:03 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:11:14 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:11:21 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:11:24 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:11:25 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 17:11:25 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:11:32 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:11:33 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:11:33 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:11:33 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:11:41 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:11:43 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:11:43 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) not match with the Expected value :Hawt Like a Habanero Shirt
+2019-11-14 17:11:44 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 17:11:45 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 17:11:45 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 17:11:46 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:11:46 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:11:46 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 17:11:48 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 17:11:51 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:11:52 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 17:13:43 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:13:43 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:13:43 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:13:46 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:13:49 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:13:51 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:13:52 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:13:55 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:13:55 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:14:00 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:14:01 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:14:01 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:14:01 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:14:10 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:14:11 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:14:12 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) not match with the Expected value :Hawt Like a Habane
+2019-11-14 17:14:12 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 17:14:13 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 17:14:13 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 17:14:14 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:14:14 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:14:14 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 17:14:16 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 17:14:19 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:14:19 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 17:22:11 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:22:11 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:22:11 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:23:25 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:23:25 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:23:25 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:23:29 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise
+2019-11-14 17:23:31 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance
+2019-11-14 17:23:32 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce
+2019-11-14 17:35:58 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:35:59 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:35:59 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:36:02 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:36:04 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:36:06 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:36:08 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce
+2019-11-14 17:36:10 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:36:10 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:36:16 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:36:16 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:36:17 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:36:17 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:36:25 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:36:27 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:43:21 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:43:21 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:43:21 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:43:24 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:43:26 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:43:28 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:43:31 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:43:33 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:43:33 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:43:38 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:43:39 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:43:39 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:43:39 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:43:47 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:43:48 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:45:16 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:45:16 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:45:16 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:45:19 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:45:22 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:45:25 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:45:27 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:45:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 17:45:30 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:45:36 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:45:36 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:45:36 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:45:36 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:45:45 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:45:46 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:45:47 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt (Men's) not match with the Expected value :Hawt Like a Habanero Shirt
+2019-11-14 17:45:47 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 17:45:48 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 17:45:48 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 17:45:48 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:45:49 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:45:49 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 17:45:50 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 17:45:53 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:45:53 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 17:50:31 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 17:50:31 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 17:50:31 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 17:50:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 17:50:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 17:50:39 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 17:50:41 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 17:50:42 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ
+2019-11-14 17:50:42 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 17:50:48 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 17:50:49 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 17:50:49 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 17:50:49 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 17:50:57 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 17:50:58 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 17:50:59 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt and Expected :Hawt Like a Habanero Shirt is validated successfully
+2019-11-14 17:50:59 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 17:51:00 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 17:51:00 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 17:51:00 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:51:01 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:51:01 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 17:51:03 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 17:51:05 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 17:51:06 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 19:38:33 INFO  LogReporter:27 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-14 19:38:33 INFO  LogReporter:21 - STEP 3: Validating the Home Page Title
+2019-11-14 19:38:33 INFO  LogReporter:21 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-14 19:38:33 INFO  LogReporter:21 - STEP 4: Changing the currency to Dollar
+2019-11-14 19:38:33 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 19:38:38 INFO  LogReporter:21 - Product name iphone is entered
+2019-11-14 19:38:38 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 19:38:43 INFO  LogReporter:21 - Product is selected
+2019-11-14 19:38:43 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 19:38:44 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 19:38:44 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 19:38:44 INFO  LogReporter:21 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-14 19:38:44 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 19:38:45 INFO  LogReporter:21 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-14 19:38:45 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 19:38:45 INFO  LogReporter:21 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-14 19:38:45 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 19:38:46 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 19:38:47 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 19:38:53 INFO  LogReporter:21 - Product name mac book air is entered
+2019-11-14 19:38:53 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 19:38:56 INFO  LogReporter:21 - Product is selected
+2019-11-14 19:38:56 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 19:38:56 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 19:38:56 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 19:38:57 INFO  LogReporter:21 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-14 19:38:57 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 19:38:57 INFO  LogReporter:21 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-14 19:38:57 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 19:38:58 INFO  LogReporter:21 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-14 19:38:58 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 19:38:59 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 19:39:00 INFO  LogReporter:21 - STEP 13: Click the Cart link
+2019-11-14 19:39:02 INFO  LogReporter:21 - Successfully navigate to the cart
+2019-11-14 19:39:02 INFO  LogReporter:21 - STEP 14: Validate the cart Product
+2019-11-14 19:39:02 INFO  LogReporter:21 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-14 19:39:03 INFO  LogReporter:21 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-14 19:39:03 INFO  LogReporter:21 - STEP 15: Validate the Grand Total Before
+2019-11-14 19:39:03 INFO  LogReporter:21 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-14 19:39:03 INFO  LogReporter:21 - STEP 16: Remove the Product From the Cart
+2019-11-14 19:39:04 INFO  LogReporter:21 - Product is Removed
+2019-11-14 19:39:04 INFO  LogReporter:21 - STEP 17: Validate the Grand Total After
+2019-11-14 19:39:35 INFO  LogReporter:21 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully
+2019-11-14 19:40:43 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 19:40:43 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 19:40:43 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 19:40:45 INFO  LogReporter:21 - Actual Value : not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces
+2019-11-14 19:40:49 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 19:40:51 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 19:40:53 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 19:40:56 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 19:40:56 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 19:41:00 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 19:41:01 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 19:41:01 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 19:41:01 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 19:41:08 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 19:41:09 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 19:41:10 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt and Expected :Hawt Like a Habanero Shirt is validated successfully
+2019-11-14 19:41:10 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 19:41:10 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 19:41:11 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 19:41:11 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 19:41:12 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 19:41:12 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 19:41:13 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 19:41:15 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 19:41:15 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 19:44:15 INFO  LogReporter:21 - STEP 1: Starting browser :IE
+2019-11-14 19:44:15 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 19:44:15 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 19:44:17 INFO  LogReporter:27 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-14 19:44:17 INFO  LogReporter:21 - STEP 3: Validating the Home Page Title
+2019-11-14 19:44:17 INFO  LogReporter:21 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-14 19:44:17 INFO  LogReporter:21 - STEP 4: Changing the currency to Dollar
+2019-11-14 19:44:17 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 19:44:17 INFO  LogReporter:21 - Actual Value : not match with the Expected value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces
+2019-11-14 19:44:22 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 19:44:25 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 19:44:26 INFO  LogReporter:21 - Product name iphone is entered
+2019-11-14 19:44:26 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 19:44:28 INFO  LogReporter:21 - Product is selected
+2019-11-14 19:44:28 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 19:44:29 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 19:44:32 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 19:44:32 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 19:44:32 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 19:44:32 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 19:44:33 INFO  LogReporter:21 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-14 19:44:33 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 19:44:33 INFO  LogReporter:21 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-14 19:44:33 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 19:44:34 INFO  LogReporter:21 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-14 19:44:34 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 19:44:36 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 19:44:37 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 19:44:38 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 19:44:39 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 19:44:40 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 19:44:40 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 19:44:45 INFO  LogReporter:21 - Product name mac book air is entered
+2019-11-14 19:44:45 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 19:44:50 INFO  LogReporter:21 - Product is selected
+2019-11-14 19:44:50 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 19:44:50 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 19:44:50 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 19:44:51 INFO  LogReporter:21 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-14 19:44:51 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 19:44:51 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 19:44:52 INFO  LogReporter:21 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-14 19:44:52 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 19:44:52 INFO  LogReporter:21 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-14 19:44:52 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 19:44:53 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 19:44:54 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt and Expected :Hawt Like a Habanero Shirt is validated successfully
+2019-11-14 19:44:55 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 19:44:55 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 19:44:55 INFO  LogReporter:21 - Actual Value : Red not match with the Expected value : Ajith
+2019-11-14 19:44:56 INFO  LogReporter:21 - STEP 13: Click the Cart link
+2019-11-14 19:44:59 INFO  LogReporter:21 - Successfully navigate to the cart
+2019-11-14 19:44:59 INFO  LogReporter:21 - STEP 14: Validate the cart Product
+2019-11-14 19:44:59 INFO  LogReporter:21 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-14 19:44:59 INFO  LogReporter:21 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-14 19:44:59 INFO  LogReporter:21 - STEP 15: Validate the Grand Total Before
+2019-11-14 19:45:00 INFO  LogReporter:21 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-14 19:45:00 INFO  LogReporter:21 - STEP 16: Remove the Product From the Cart
+2019-11-14 19:45:01 INFO  LogReporter:21 - Product is Removed
+2019-11-14 19:45:01 INFO  LogReporter:21 - STEP 17: Validate the Grand Total After
+2019-11-14 19:45:32 INFO  LogReporter:21 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully
+2019-11-14 20:02:28 INFO  LogReporter:21 - STEP 1: Starting browser :CHROME
+2019-11-14 20:02:28 INFO  LogReporter:21 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-14 20:02:28 INFO  LogReporter:21 - STEP 3: Validate all the Menu
+2019-11-14 20:02:29 INFO  LogReporter:27 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-14 20:02:29 INFO  LogReporter:21 - STEP 3: Validating the Home Page Title
+2019-11-14 20:02:29 INFO  LogReporter:21 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-14 20:02:29 INFO  LogReporter:21 - STEP 4: Changing the currency to Dollar
+2019-11-14 20:02:29 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 20:02:30 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-14 20:02:32 INFO  LogReporter:21 - Product name iphone is entered
+2019-11-14 20:02:32 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 20:02:32 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-14 20:02:33 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-14 20:02:34 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-14 20:02:35 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-14 20:02:35 INFO  LogReporter:21 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-14 20:02:37 INFO  LogReporter:21 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-14 20:02:37 INFO  LogReporter:21 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-14 20:02:37 INFO  LogReporter:21 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-14 20:02:37 INFO  LogReporter:21 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-14 20:02:39 INFO  LogReporter:21 - STEP 7: click the Cart
+2019-11-14 20:02:39 INFO  LogReporter:21 - STEP 8: Validation of the product
+2019-11-14 20:02:40 INFO  LogReporter:21 - Actual Value :Hawt Like a Habanero Shirt and Expected :Hawt Like a Habanero Shirt is validated successfully
+2019-11-14 20:02:40 INFO  LogReporter:21 - Actual Value : M and Expected : M is validated successfully
+2019-11-14 20:02:40 INFO  LogReporter:21 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-14 20:02:40 INFO  LogReporter:21 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-14 20:02:40 INFO  LogReporter:21 - Product is selected
+2019-11-14 20:02:40 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 9: Increase the Qty count
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 20:02:41 INFO  LogReporter:21 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 10: Update the  Cart
+2019-11-14 20:02:41 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 20:02:42 INFO  LogReporter:21 - STEP 5: Searching the Product
+2019-11-14 20:02:42 INFO  LogReporter:21 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-14 20:02:43 INFO  LogReporter:21 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-14 20:02:44 INFO  LogReporter:21 - Product name mac book air is entered
+2019-11-14 20:02:44 INFO  LogReporter:21 - STEP 6: Select the Product
+2019-11-14 20:02:46 INFO  LogReporter:21 - Product is selected
+2019-11-14 20:02:46 INFO  LogReporter:21 - STEP 7: Validate the the  Product Availability
+2019-11-14 20:02:46 INFO  LogReporter:21 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-14 20:02:46 INFO  LogReporter:21 - STEP 8: Validate the the  Product Price
+2019-11-14 20:02:47 INFO  LogReporter:21 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-14 20:02:47 INFO  LogReporter:21 - STEP 9: Validate the the  Product Ex Tax
+2019-11-14 20:02:47 INFO  LogReporter:21 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-14 20:02:47 INFO  LogReporter:21 - STEP 10: Validate the the  Product Description
+2019-11-14 20:02:47 INFO  LogReporter:21 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-14 20:02:47 INFO  LogReporter:21 - STEP 11: Change the Quantity
+2019-11-14 20:02:47 INFO  LogReporter:21 - STEP 12: Click Add to Cart Button
+2019-11-14 20:02:48 INFO  LogReporter:21 - STEP 13: Click the Cart link
+2019-11-14 20:02:49 INFO  LogReporter:21 - Successfully navigate to the cart
+2019-11-14 20:02:49 INFO  LogReporter:21 - STEP 14: Validate the cart Product
+2019-11-14 20:02:49 INFO  LogReporter:21 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-14 20:02:49 INFO  LogReporter:21 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-14 20:02:49 INFO  LogReporter:21 - STEP 15: Validate the Grand Total Before
+2019-11-14 20:02:49 INFO  LogReporter:21 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-14 20:02:49 INFO  LogReporter:21 - STEP 16: Remove the Product From the Cart
+2019-11-14 20:02:49 INFO  LogReporter:21 - Product is Removed
+2019-11-14 20:02:49 INFO  LogReporter:21 - STEP 17: Validate the Grand Total After
+2019-11-14 20:03:19 INFO  LogReporter:21 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully

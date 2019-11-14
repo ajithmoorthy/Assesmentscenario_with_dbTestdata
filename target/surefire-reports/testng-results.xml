@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HeatAndNinjaSuite" duration-ms="74663" started-at="2019-11-14T14:32:06Z" finished-at="2019-11-14T14:33:21Z">
+    <groups>
+    </groups>
+    <test name="VerifyCartTest" duration-ms="74663" started-at="2019-11-14T14:32:06Z" finished-at="2019-11-14T14:33:21Z">
+      <class name="com.atmecs.assesment_dbmanagement.testbase.TestNGPrallel">
+        <test-method status="PASS" signature="xmlsuite()[pri:0, instance:com.atmecs.assesment_dbmanagement.testbase.TestNGPrallel@6537cf78]" name="xmlsuite" duration-ms="74600" started-at="2019-11-14T14:32:06Z" finished-at="2019-11-14T14:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlsuite -->
+      </class> <!-- com.atmecs.assesment_dbmanagement.testbase.TestNGPrallel -->
+    </test> <!-- VerifyCartTest -->
+  </suite> <!-- HeatAndNinjaSuite -->
+</testng-results>
